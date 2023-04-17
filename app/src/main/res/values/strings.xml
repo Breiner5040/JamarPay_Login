@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">JamarPay</string>
+
+    <string-array name="spinner_options">
+        <item>C.C -Cédula de ciudadanía</item>
+        <item>Opción 2</item>
+        <item>Opción 3</item>
+        <item>Opción 4</item>
+        <item>Opción 5</item>
+    </string-array>
 </resources>
